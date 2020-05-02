@@ -1,0 +1,12 @@
+<scheme name="Darcula small screen" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-02-03T11:30:42</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.3.0.0</property>
+    <property name="modified">2018-02-03T11:30:45</property>
+    <property name="originalScheme">Darcula smalle screen</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+</scheme>

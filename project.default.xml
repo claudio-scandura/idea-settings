@@ -1,0 +1,272 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.13" />
+            <entry key="copy-libs" value="false" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="CheckStyle-IDEA-workspace">
+        <option name="configuration">
+          <map>
+            <entry key="last-active-plugin-version" value="5.23.0" />
+          </map>
+        </option>
+      </component>
+      <component name="CompilerConfiguration">
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/work/elsevier/akka-ingestion" value="7275670800000" />
+            <entry key="$USER_HOME$/work/elsevier/cdt-fedsearch" value="10243703176000" />
+            <entry key="$USER_HOME$/work/elsevier/cdt-primers" value="7275233672000" />
+            <entry key="$USER_HOME$/work/personal/akka-with-di" value="2916577694000" />
+            <entry key="$USER_HOME$/work/personal/michael-version-of-akka-with-di" value="2916577736000" />
+            <entry key="$USER_HOME$/work/springboot-example" value="1443627424000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/work/personal/config-composer" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/personal/typesafe-config-annotations" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/alpakka-utils" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/cassandra-store" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/domain-lib" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/funds-management-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/kotlin-test-utils" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/mock-participant" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/old-pgw/payment-gateway-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/payment-gateway-schema" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/payment-gateway-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/payments-processor-schema" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/payments-processor-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/platform-tests" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/reconciliation-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/settlement-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/transaction-store-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/typesafe-lombok" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>TestNG</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file enabled="true" id="idea.log" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/personal/truffle-paradise" value="1454236995000" />
+            <entry key="$USER_HOME$/scala/akka-wator" value="1446829147000" />
+            <entry key="$USER_HOME$/work/personal/mpp" value="1456660588000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/courses/LAC-Fundamentals-v1/exercises/scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/courses/LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/courses/LTM-Installation-v1/exercises" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/lightbend/accounts" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/lightbend/lightbend.com" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/oss/akka-grpc" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/oss/alpakka-kafka" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/oss/cloudflow/core" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/playground/cloudflow/core" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/playground/cloudflow/examples/sensor-data-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/playground/cloudflow/examples/word-classification" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/playground/lagom-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/playground/lagom-samples/grpc-example/grpc-example-java" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/support/kafka-streams" value="PREVIEW" />
+            <entry key="$USER_HOME$/scala/triangle-paths" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/lightbend/typed-actors" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/personal/canvas" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/personal/shapeless-derivation" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/alpakka-graph" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/vocalink/utils" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

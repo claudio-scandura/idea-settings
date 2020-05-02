@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.vocalink.mach1.pg.PaymentGatewayService.initiateReconciliationCycle(lastEventReader,reconcilaitionCycleEventsTopic)" />
+        <added pattern="com.vocalink.mach1.pg.kafka.KafkaAkkaStreamConsumer.consumeAndApply(sourceTopic,flow,commitBatchMaxSize,deserializer,additionalSettings,commitParallelism)" />
+      </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="org.apache.kafka.clients.admin.NewTopic(name,numPartitions,replicationFactor)" />
+        <added pattern="org.apache.kafka.clients.producer.ProducerRecord(topic,partition,key,value)" />
+        <added pattern="kotlin.AssertionError(message,cause)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
+  </component>
+</application>
