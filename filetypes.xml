@@ -12,6 +12,7 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="ReconciliationCycleTransactionsSummary" type="PLAIN_TEXT" />
