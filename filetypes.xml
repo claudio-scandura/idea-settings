@@ -20,10 +20,10 @@
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="tmp-piis" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="propertiers" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="propertiers" type="PLAIN_TEXT" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
     </extensionMap>
   </component>
