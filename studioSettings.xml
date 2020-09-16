@@ -2,6 +2,8 @@
   <component name="StudioSettings">
     <option name="generalSettings">
       <GeneralSettings>
+        <option name="metaCacheRoot" value="/tmp/" />
+        <option name="jobPathDirector" value="/tmp" />
         <option name="enableInternalFeatures" value="false" />
         <option name="macAddress" value="3C-22-FB-12-7C-12" />
       </GeneralSettings>
@@ -19,6 +21,12 @@
           </list>
         </option>
       </SdkSettings>
+    </option>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="enableAutoCheck" value="false" />
+        <option name="installedPluginVersion" value="3.5.0" />
+      </UpdaterSettings>
     </option>
     <option name="webEngineSettings">
       <WebEngineSettings>
