@@ -2,6 +2,8 @@
   <component name="StudioSettings">
     <option name="generalSettings">
       <GeneralSettings>
+        <option name="metaCacheRoot" value="/tmp/" />
+        <option name="jobPathDirector" value="/tmp" />
         <option name="enableInternalFeatures" value="false" />
         <option name="macAddress" value="3C-22-FB-12-7C-12" />
       </GeneralSettings>
@@ -12,7 +14,7 @@
           <list>
             <SdkInfo>
               <option name="sdkType" value="ODPS_CMD" />
-              <option name="version" value="0.33.1-public" />
+              <option name="version" value="0.35.1-public" />
               <option name="installedLocation" value="$APPLICATION_PLUGINS_DIR$/odps-studio-intellij/odpscmd_public" />
               <option name="isDefault" value="true" />
             </SdkInfo>
@@ -20,12 +22,11 @@
         </option>
       </SdkSettings>
     </option>
-    <option name="webEngineSettings">
-      <WebEngineSettings>
-        <option name="nativePath" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.1/studio_cef_native" />
-        <option name="version" value="1.0.0" />
-        <option name="engineType" value="WEBVIEW" />
-      </WebEngineSettings>
+    <option name="updaterSettings">
+      <UpdaterSettings>
+        <option name="enableAutoCheck" value="false" />
+        <option name="installedPluginVersion" value="3.5.0" />
+      </UpdaterSettings>
     </option>
   </component>
 </application>
