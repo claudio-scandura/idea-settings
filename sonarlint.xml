@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.bpweb.bp.com" />
+          <token>df98dfc9df93df9adf92df92dfccdfc9df9edfcfdf9fdf92df9adf93df9ddfc8df98dfc8dfcfdf9bdf9edf9cdf9edfc8df92df99df9fdfcedf99df9bdfcfdf9fdf9cdf98dfcfdf98df92df98dfccdf9a</token>
+          <option name="name" value="mod-pm" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
