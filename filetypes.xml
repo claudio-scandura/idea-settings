@@ -14,7 +14,6 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="tmp-piis" type="PLAIN_TEXT" />
