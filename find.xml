@@ -9,9 +9,9 @@
     <mask>*.properties</mask>
     <mask>*.kts</mask>
     <mask>*.proto</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.yaml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
