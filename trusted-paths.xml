@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/dev/clients/bp" />
+        <option value="$USER_HOME$/dev/playground" />
       </list>
     </option>
   </component>
