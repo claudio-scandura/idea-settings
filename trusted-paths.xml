@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/dev/clients/bp" />
         <option value="$USER_HOME$/dev/playground" />
+        <option value="$USER_HOME$/dev/oss/akka-serverless-maps" />
       </list>
     </option>
   </component>
