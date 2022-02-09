@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.guice" />
+        <option value="com.intellij.kubernetes" />
+      </list>
+    </option>
+  </component>
+</application>
