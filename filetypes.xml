@@ -28,6 +28,7 @@
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="propertiers" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="psd" approved="true" type="Image" />
