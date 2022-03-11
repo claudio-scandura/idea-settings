@@ -16,10 +16,10 @@
     <mask>*.scala</mask>
     <mask>*.kts</mask>
     <mask>*.conf</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*Test*</mask>
     <mask>*java</mask>
     <mask>*kts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
