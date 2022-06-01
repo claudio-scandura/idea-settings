@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +14,6 @@
     <mask>*.feature</mask>
     <mask>*Test.java</mask>
     <mask>*.kt</mask>
-    <mask>*.scala</mask>
     <mask>*.kts</mask>
     <mask>*.conf</mask>
     <mask>*.yml</mask>
@@ -23,5 +23,6 @@
     <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
